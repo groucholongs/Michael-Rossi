@@ -1,8 +1,26 @@
 📝 Authorship & License
-
 This repository contains original work authored by Michael Rossi.
 All code and documentation remain the intellectual property of the author.
-
-Use of this material is permitted under the included LICENSE
-.
+Use of this material is permitted under the included LICENSE.
 Attribution is required for reuse or derivative works.
+
+
+Sonons: Even - Based Signal Unit for DSP & Recursive Healing Techniques.
+
+Overview
+Sonons are energy packets - Shorts bursts of signal that are localized in time and frequency. I audio DSP, they describe transients (a drum hit, a pluck, a burst of noise). In biomechanics, they desribe muscle firings, grip events, or gait cycles.
+
+Instead of treating biosignals as a endless stream, sonons provide sicrete interpretable units:
+Start time t0
+Peak frequency f0 (or EMG channel)
+Envelope Shape
+Total energy
+- This makes signals easier to segment, classify, and reuse.
+
+NOTE*
+Sonons have appeared in speculative spiritual writing, but here we define them rigorously as discrete time - frequency events in signal processing.
+
+
+
+
+
